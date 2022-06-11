@@ -4,14 +4,16 @@ actual file:
 - https://www150.statcan.gc.ca/n1/tbl/csv/98100003-eng.zip
 
 For USA Census Data:
-- https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html
-actual file:
-https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
+1) 2020's Data:
+  - https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html
+  - actual file:
+  - https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
 
-- https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
-actual file:
-https://www2.census.gov/programs-surveys/popest/tables/2010-2019/metro/totals/cbsa-met-est2019-annres.xlsx
+2) 2010's Data:
+  - https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
+  - actual file:
+  - https://www2.census.gov/programs-surveys/popest/tables/2010-2019/metro/totals/cbsa-met-est2019-annres.xlsx
 
 For Scraping:
--Table for Sports Franchises by City
-https://www.stadium-maps.com/facts/sports-franchises.html
+1) Table for Sports Franchises by City
+  - https://www.stadium-maps.com/facts/sports-franchises.html
