@@ -1,4 +1,10 @@
+For Canada Census Data:
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000301
 actual file:
 https://www150.statcan.gc.ca/n1/tbl/csv/98100003-eng.zip
+
+For USA Census Data:
+https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html
+actual file:
+https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
 
