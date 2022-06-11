@@ -8,3 +8,6 @@ https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-a
 actual file:
 https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
 
+For Scraping:
+-Table for Sports Franchises by City
+https://www.stadium-maps.com/facts/sports-franchises.html
