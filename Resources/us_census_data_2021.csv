@@ -1,46 +1,46 @@
-,Geographic Area,April 2020,2020,2021,City
-19,".Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6089815.0,6101146.0,6144050.0,Atlanta
-23,".Austin-Round Rock-Georgetown, TX Metro Area",2283371.0,2299125.0,2352426.0,Austin
-25,".Baltimore-Columbia-Towson, MD Metro Area",2844510.0,2841691.0,2838327.0,Baltimore
-44,".Boston-Cambridge-Newton, MA-NH Metro Area",4941632.0,4936511.0,4899932.0,Boston
-54,".Buffalo-Cheektowaga, NY Metro Area",1166902.0,1165506.0,1162336.0,Buffalo
-69,".Charlotte-Concord-Gastonia, NC-SC Metro Area",2660329.0,2669665.0,2701046.0,Charlotte
-73,".Chicago-Naperville-Elgin, IL-IN-WI Metro Area",9618502.0,9601605.0,9509934.0,Chicago
-79,".Cincinnati, OH-KY-IN Metro Area",2256884.0,2257667.0,2259935.0,Cincinnati
-82,".Cleveland-Elyria, OH Metro Area",2088251.0,2085357.0,2075662.0,Cleveland
-90,".Columbus, OH Metro Area",2138926.0,2141042.0,2151017.0,Columbus
-95,".Dallas-Fort Worth-Arlington, TX Metro Area",7637387.0,7662325.0,7759615.0,Dallas
-106,".Denver-Aurora-Lakewood, CO Metro Area",2963821.0,2969289.0,2972566.0,Denver
-108,".Detroit-Warren-Dearborn, MI Metro Area",4392041.0,4385748.0,4365205.0,Detroit
-154,".Green Bay, WI Metro Area",328268.0,328323.0,329490.0,Green Bay
-172,".Houston-The Woodlands-Sugar Land, TX Metro Area",7122240.0,7137747.0,7206841.0,Houston
-176,".Indianapolis-Carmel-Anderson, IN Metro Area",2111040.0,2113700.0,2126804.0,Indianapolis
-182,".Jacksonville, FL Metro Area",1605848.0,1611388.0,1637666.0,Jacksonville
-193,".Kansas City, MO-KS Metro Area",2192035.0,2193578.0,2199490.0,Kansas City
-210,".Las Vegas-Henderson-Paradise, NV Metro Area",2265461.0,2273386.0,2292476.0,Las Vegas
-223,".Los Angeles-Long Beach-Anaheim, CA Metro Area",13200998.0,13173266.0,12997353.0,Los Angeles
-238,".Memphis, TN-MS-AR Metro Area",1337779.0,1337311.0,1336103.0,Memphis
-240,".Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",6138333.0,6126441.0,6091747.0,Miami
-248,".Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3690261.0,3692421.0,3690512.0,Minneapolis
-247,".Milwaukee-Waukesha, WI Metro Area",1574731.0,1573598.0,1566487.0,Milwaukee
-263,".Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1989519.0,1995343.0,2012476.0,Nashville
-266,".New Orleans-Metairie, LA Metro Area",1271845.0,1270366.0,1261726.0,New Orleans
-267,".New York-Newark-Jersey City, NY-NJ-PA Metro Area",20140470.0,20096413.0,19768458.0,New York
-337,".San Francisco-Oakland-Berkeley, CA Metro Area",4749008.0,4739649.0,4623264.0,Oakland
-279,".Oklahoma City, OK Metro Area",1425695.0,1428709.0,1441647.0,Oklahoma City
-282,".Orlando-Kissimmee-Sanford, FL Metro Area",2673376.0,2677687.0,2691925.0,Orlando
-291,".Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",6245051.0,6241983.0,6228601.0,Philadelphia
-296,".Phoenix-Mesa-Chandler, AZ Metro Area",4845832.0,4867925.0,4946145.0,Phoenix
-298,".Pittsburgh, PA Metro Area",2370930.0,2367293.0,2353538.0,Pittsburgh
-302,".Portland-Vancouver-Hillsboro, OR-WA Metro Area",2512859.0,2516230.0,2511612.0,Portland
-311,".Raleigh-Cary, NC Metro Area",1413982.0,1420225.0,1448411.0,Raleigh
-324,".Sacramento-Roseville-Folsom, CA Metro Area",2397382.0,2399351.0,2411428.0,Sacramento
-333,".Salt Lake City, UT Metro Area",1257936.0,1259517.0,1263061.0,Salt Lake
-335,".San Antonio-New Braunfels, TX Metro Area",2558143.0,2566683.0,2601788.0,San Antonio
-336,".San Diego-Chula Vista-Carlsbad, CA Metro Area",3298634.0,3297252.0,3286069.0,San Diego
-337,".San Francisco-Oakland-Berkeley, CA Metro Area",4749008.0,4739649.0,4623264.0,San Francisco
-341,".San Jose-Sunnyvale-Santa Clara, CA Metro Area",2000468.0,1995105.0,1952185.0,San Jose
-329,".St. Louis, MO-IL Metro Area",2820253.0,2818267.0,2809299.0,St. Louis
-349,".Seattle-Tacoma-Bellevue, WA Metro Area",4018762.0,4024730.0,4011553.0,Seattle
-373,".Tampa-St. Petersburg-Clearwater, FL Metro Area",3175275.0,3183385.0,3219514.0,Tampa
-396,".Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",6385162.0,6385714.0,6356434.0,Washington
+City,Geographic Area,April 2020,2020,2021
+Atlanta,".Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6089815.0,6101146.0,6144050.0
+Austin,".Austin-Round Rock-Georgetown, TX Metro Area",2283371.0,2299125.0,2352426.0
+Baltimore,".Baltimore-Columbia-Towson, MD Metro Area",2844510.0,2841691.0,2838327.0
+Boston,".Boston-Cambridge-Newton, MA-NH Metro Area",4941632.0,4936511.0,4899932.0
+Buffalo,".Buffalo-Cheektowaga, NY Metro Area",1166902.0,1165506.0,1162336.0
+Charlotte,".Charlotte-Concord-Gastonia, NC-SC Metro Area",2660329.0,2669665.0,2701046.0
+Chicago,".Chicago-Naperville-Elgin, IL-IN-WI Metro Area",9618502.0,9601605.0,9509934.0
+Cincinnati,".Cincinnati, OH-KY-IN Metro Area",2256884.0,2257667.0,2259935.0
+Cleveland,".Cleveland-Elyria, OH Metro Area",2088251.0,2085357.0,2075662.0
+Columbus,".Columbus, OH Metro Area",2138926.0,2141042.0,2151017.0
+Dallas,".Dallas-Fort Worth-Arlington, TX Metro Area",7637387.0,7662325.0,7759615.0
+Denver,".Denver-Aurora-Lakewood, CO Metro Area",2963821.0,2969289.0,2972566.0
+Detroit,".Detroit-Warren-Dearborn, MI Metro Area",4392041.0,4385748.0,4365205.0
+Green Bay,".Green Bay, WI Metro Area",328268.0,328323.0,329490.0
+Houston,".Houston-The Woodlands-Sugar Land, TX Metro Area",7122240.0,7137747.0,7206841.0
+Indianapolis,".Indianapolis-Carmel-Anderson, IN Metro Area",2111040.0,2113700.0,2126804.0
+Jacksonville,".Jacksonville, FL Metro Area",1605848.0,1611388.0,1637666.0
+Kansas City,".Kansas City, MO-KS Metro Area",2192035.0,2193578.0,2199490.0
+Las Vegas,".Las Vegas-Henderson-Paradise, NV Metro Area",2265461.0,2273386.0,2292476.0
+Los Angeles,".Los Angeles-Long Beach-Anaheim, CA Metro Area",13200998.0,13173266.0,12997353.0
+Memphis,".Memphis, TN-MS-AR Metro Area",1337779.0,1337311.0,1336103.0
+Miami,".Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",6138333.0,6126441.0,6091747.0
+Minneapolis,".Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3690261.0,3692421.0,3690512.0
+Milwaukee,".Milwaukee-Waukesha, WI Metro Area",1574731.0,1573598.0,1566487.0
+Nashville,".Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1989519.0,1995343.0,2012476.0
+New Orleans,".New Orleans-Metairie, LA Metro Area",1271845.0,1270366.0,1261726.0
+New York,".New York-Newark-Jersey City, NY-NJ-PA Metro Area",20140470.0,20096413.0,19768458.0
+Oakland,".San Francisco-Oakland-Berkeley, CA Metro Area",4749008.0,4739649.0,4623264.0
+Oklahoma City,".Oklahoma City, OK Metro Area",1425695.0,1428709.0,1441647.0
+Orlando,".Orlando-Kissimmee-Sanford, FL Metro Area",2673376.0,2677687.0,2691925.0
+Philadelphia,".Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",6245051.0,6241983.0,6228601.0
+Phoenix,".Phoenix-Mesa-Chandler, AZ Metro Area",4845832.0,4867925.0,4946145.0
+Pittsburgh,".Pittsburgh, PA Metro Area",2370930.0,2367293.0,2353538.0
+Portland,".Portland-Vancouver-Hillsboro, OR-WA Metro Area",2512859.0,2516230.0,2511612.0
+Raleigh,".Raleigh-Cary, NC Metro Area",1413982.0,1420225.0,1448411.0
+Sacramento,".Sacramento-Roseville-Folsom, CA Metro Area",2397382.0,2399351.0,2411428.0
+Salt Lake,".Salt Lake City, UT Metro Area",1257936.0,1259517.0,1263061.0
+San Antonio,".San Antonio-New Braunfels, TX Metro Area",2558143.0,2566683.0,2601788.0
+San Diego,".San Diego-Chula Vista-Carlsbad, CA Metro Area",3298634.0,3297252.0,3286069.0
+San Francisco,".San Francisco-Oakland-Berkeley, CA Metro Area",4749008.0,4739649.0,4623264.0
+San Jose,".San Jose-Sunnyvale-Santa Clara, CA Metro Area",2000468.0,1995105.0,1952185.0
+St. Louis,".St. Louis, MO-IL Metro Area",2820253.0,2818267.0,2809299.0
+Seattle,".Seattle-Tacoma-Bellevue, WA Metro Area",4018762.0,4024730.0,4011553.0
+Tampa,".Tampa-St. Petersburg-Clearwater, FL Metro Area",3175275.0,3183385.0,3219514.0
+Washington,".Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",6385162.0,6385714.0,6356434.0
