@@ -1,0 +1,152 @@
+,team,city,league
+0,Atlanta Braves,Atlanta,MLB
+1,Baltimore Orioles,Baltimore,MLB
+2,Boston Red Sox,Boston,MLB
+3,Chicago Cubs  ,Chicago,MLB
+4,Chicago Whitesox,Chicago,MLB
+5,Cincinnati Reds,Cincinnati,MLB
+6,Cleveland Indians,Cleveland,MLB
+7,Texas Rangers,Dallas,MLB
+8,Colorado Rockies,Denver,MLB
+9,Detroit Tigers,Detroit,MLB
+10,Houston Astros,Houston,MLB
+11,Kansas City Royals,Kansas City,MLB
+12,LA Dodgers,Los Angeles,MLB
+13,LA Angels,Los Angeles,MLB
+14,Miami Marlins,Miami,MLB
+15,Minnesota Twins,Minneapolis,MLB
+16,Milwaukee Brewers,Milwaukee,MLB
+17,New York Yankees,New York,MLB
+18,New York Mets,New York,MLB
+19,Oakland A's,Oakland,MLB
+20,Philadelphia Phillies,Philadelphia,MLB
+21,Arizona Diamond Backs,Phoenix,MLB
+22,Pittsburgh Pirates,Pittsburgh,MLB
+23,San Diego Padres,San Diego,MLB
+24,San Francisco Giants,San Francisco,MLB
+25,St. Louis Cardinals,St. Louis,MLB
+26,Seattle Mariners,Seattle,MLB
+27,Tampa Bay Rays,Tampa,MLB
+28,Toronto Blue Jays,Toronto,MLB
+29,Washington Nationals,Washington,MLB
+30,Atlanta Falcons,Atlanta,NFL
+31,Baltimore Ravens,Baltimore,NFL
+32,New England Patriots,Boston,NFL
+33,Buffalo Bills,Buffalo,NFL
+34,Carolina Panthers,Charlotte,NFL
+35,Chicago Bears,Chicago,NFL
+36,Cincinnati Bengals,Cincinnati,NFL
+37,Cleveland Browns,Cleveland,NFL
+38,Dallas Cowboys,Dallas,NFL
+39,Denver Broncos,Denver,NFL
+40,Detroit Lions,Detroit,NFL
+41,Green Bay Packers,Green Bay,NFL
+42,Houston Texans,Houston,NFL
+43,Indianapolis Colts,Indianapolis,NFL
+44,Jacksonville Jaguars,Jacksonville,NFL
+45,Kansas City Chiefs,Kansas City,NFL
+46,Las Vegas Raiders,Las Vegas,NFL
+47,LA Rams,Los Angeles,NFL
+48,LA Chargers,Los Angeles,NFL
+49,Miami Dolphins,Miami,NFL
+50,Minnesota Vikings,Minneapolis,NFL
+51,Tennessee Titans,Nashville,NFL
+52,New Orleans Saints,New Orleans,NFL
+53,New York Giants,New York,NFL
+54,New York Jets,New York,NFL
+55,Philadelphia Eagles,Philadelphia,NFL
+56,Arizona Cardinals,Phoenix,NFL
+57,Pittsburgh Steelers,Pittsburgh,NFL
+58,San Francisco 49ers,San Francisco,NFL
+59,Seattle Seahawks,Seattle,NFL
+60,Tampa Bay Buccaneers,Tampa,NFL
+61,Washington Football,Washington,NFL
+62,Atlanta Hawks,Atlanta,NBA
+63,Boston Celtics,Boston,NBA
+64,Charlotte Hornets,Charlotte,NBA
+65,Chicago Bulls,Chicago,NBA
+66,Cleveland Cavaliers,Cleveland,NBA
+67,Dallas Mavericks,Dallas,NBA
+68,Denver Nuggets,Denver,NBA
+69,Detroit Pistons,Detroit,NBA
+70,Houston Rockets,Houston,NBA
+71,Indiana Pacers,Indianapolis,NBA
+72,LA Lakers,Los Angeles,NBA
+73,LA Clippers,Los Angeles,NBA
+74,Memphis Grizzlies,Memphis,NBA
+75,Miami Heat,Miami,NBA
+76,Minnesota Timberwolves,Minneapolis,NBA
+77,Milwaukee Bucks,Milwaukee,NBA
+78,New Orleans Pelicans,New Orleans,NBA
+79,New York Knicks,New York,NBA
+80,Brooklyn Nets,New York,NBA
+81,Oklahoma City Thunder,Oklahoma City,NBA
+82,Orlando Magic,Orlando,NBA
+83,Philadelphia 76ers,Philadelphia,NBA
+84,Phoenix Suns,Phoenix,NBA
+85,Portland Trailblazers,Portland,NBA
+86,Sacramento Kings,Sacramento,NBA
+87,Utah Jazz,Salt Lake,NBA
+88,San Antonio Spurs,San Antonio,NBA
+89,Golden State Warriors,San Francisco,NBA
+90,Toronto Raptors,Toronto,NBA
+91,Washington Wizards,Washington,NBA
+92,Boston Bruins,Boston,NHL
+93,Buffalo Sabres,Buffalo,NHL
+94,Calgary Flames,Calgary,NHL
+95,Chicago Blackhawks,Chicago,NHL
+96,Columbus Blue Jackets,Columbus,NHL
+97,Dallas Stars,Dallas,NHL
+98,Colorado Avalanche,Denver,NHL
+99,Detroit Red Wings,Detroit,NHL
+100,Edmonton Oilers,Edmonton,NHL
+101,Vegas Golden Knights,Las Vegas,NHL
+102,LA Kings,Los Angeles,NHL
+103,Anaheim Ducks,Los Angeles,NHL
+104,Florida Panthers,Miami,NHL
+105,Minnesota Wild,Minneapolis,NHL
+106,Montreal Canadiens,Montreal,NHL
+107,Nashville Predators,Nashville,NHL
+108,New York Rangers,New York,NHL
+109,New York Islanders,New York,NHL
+110,New Jersey Devils,New York,NHL
+111,Ottawa Senators,Ottawa,NHL
+112,Philadelphia Flyers,Philadelphia,NHL
+113,Arizona Coyotes,Phoenix,NHL
+114,Pittsburgh Penguins,Pittsburgh,NHL
+115,Carolina Hurricanes,Raleigh,NHL
+116,San Jose Sharks,San Jose,NHL
+117,St. Louis Blues,St. Louis,NHL
+118,Seattle Kraken,Seattle,NHL
+119,Tampa Bay Lightening,Tampa,NHL
+120,Toronto Maple Leafs,Toronto,NHL
+121,Vancouver Canucks,Vancouver,NHL
+122,Washington Capitals,Washington,NHL
+123,Winnipeg Jets,Winnipeg,NHL
+124,Atlanta United,Atlanta,MLS
+125,Austin FC,Austin,MLS
+126,New England Revolution,Boston,MLS
+127,Chicago Fire,Chicago,MLS
+128,FC Cincinnati,Cincinnati,MLS
+129,Columbus Crew,Columbus,MLS
+130,FC Dallas,Dallas,MLS
+131,Colorado Rapids,Denver,MLS
+132,Houston Dynamo,Houston,MLS
+133,Sporting Kansas City,Kansas City,MLS
+134,LA Galaxy,Los Angeles,MLS
+135,LA FC,Los Angeles,MLS
+136,Inter Miami,Miami,MLS
+137,Minnesota United,Minneapolis,MLS
+138,Montreal Impact,Montreal,MLS
+139,Nashville SC,Nashville,MLS
+140,New York Red Bulls,New York,MLS
+141,New York City FC,New York,MLS
+142,Orlando City,Orlando,MLS
+143,Philadelphia Union,Philadelphia,MLS
+144,Portland Timbers,Portland,MLS
+145,Real Salt Lake,Salt Lake,MLS
+146,San Jose Eathquakes,San Jose,MLS
+147,Seattle Sounders,Seattle,MLS
+148,Toronto FC,Toronto,MLS
+149,Vancouver Whitecaps,Vancouver,MLS
+150,DC United,Washington,MLS
