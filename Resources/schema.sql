@@ -13,9 +13,9 @@ CREATE TABLE "teams" (
 
 CREATE TABLE "census" (
     "city" varchar(30)   NOT NULL,
-    "country" varchar(3)   NOT NULL,
     "2016_population" int   NOT NULL,
     "2021_population" int   NOT NULL,
+    "country" varchar(3)   NOT NULL,
     CONSTRAINT "pk_census" PRIMARY KEY (
         "city"
      )
