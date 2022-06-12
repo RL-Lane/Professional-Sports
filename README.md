@@ -1,7 +1,7 @@
 Documentation in Resources & Final Data Folders
 
 1.Resources/"98100003.csv"
--Transfromed version of the below file ("98100003_MetaData.csv"), transformed in Jupyter Notebook so that there is 
+-Transformed version of the below file ("98100003_MetaData.csv"), transformed in Jupyter Notebook so that there is 
 one header and the resulting data below.
 
 2.Resources/"98100003_MetaData.csv"
