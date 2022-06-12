@@ -1,0 +1,152 @@
+team,city,league
+Atlanta Braves,Atlanta,MLB
+Baltimore Orioles,Baltimore,MLB
+Boston Red Sox,Boston,MLB
+Chicago Cubs  ,Chicago,MLB
+Chicago Whitesox,Chicago,MLB
+Cincinnati Reds,Cincinnati,MLB
+Cleveland Indians,Cleveland,MLB
+Texas Rangers,Dallas,MLB
+Colorado Rockies,Denver,MLB
+Detroit Tigers,Detroit,MLB
+Houston Astros,Houston,MLB
+Kansas City Royals,Kansas City,MLB
+LA Dodgers,Los Angeles,MLB
+LA Angels,Los Angeles,MLB
+Miami Marlins,Miami,MLB
+Minnesota Twins,Minneapolis,MLB
+Milwaukee Brewers,Milwaukee,MLB
+New York Yankees,New York,MLB
+New York Mets,New York,MLB
+Oakland A's,Oakland,MLB
+Philadelphia Phillies,Philadelphia,MLB
+Arizona Diamond Backs,Phoenix,MLB
+Pittsburgh Pirates,Pittsburgh,MLB
+San Diego Padres,San Diego,MLB
+San Francisco Giants,San Francisco,MLB
+St. Louis Cardinals,St. Louis,MLB
+Seattle Mariners,Seattle,MLB
+Tampa Bay Rays,Tampa,MLB
+Toronto Blue Jays,Toronto,MLB
+Washington Nationals,Washington,MLB
+Atlanta Falcons,Atlanta,NFL
+Baltimore Ravens,Baltimore,NFL
+New England Patriots,Boston,NFL
+Buffalo Bills,Buffalo,NFL
+Carolina Panthers,Charlotte,NFL
+Chicago Bears,Chicago,NFL
+Cincinnati Bengals,Cincinnati,NFL
+Cleveland Browns,Cleveland,NFL
+Dallas Cowboys,Dallas,NFL
+Denver Broncos,Denver,NFL
+Detroit Lions,Detroit,NFL
+Green Bay Packers,Green Bay,NFL
+Houston Texans,Houston,NFL
+Indianapolis Colts,Indianapolis,NFL
+Jacksonville Jaguars,Jacksonville,NFL
+Kansas City Chiefs,Kansas City,NFL
+Las Vegas Raiders,Las Vegas,NFL
+LA Rams,Los Angeles,NFL
+LA Chargers,Los Angeles,NFL
+Miami Dolphins,Miami,NFL
+Minnesota Vikings,Minneapolis,NFL
+Tennessee Titans,Nashville,NFL
+New Orleans Saints,New Orleans,NFL
+New York Giants,New York,NFL
+New York Jets,New York,NFL
+Philadelphia Eagles,Philadelphia,NFL
+Arizona Cardinals,Phoenix,NFL
+Pittsburgh Steelers,Pittsburgh,NFL
+San Francisco 49ers,San Francisco,NFL
+Seattle Seahawks,Seattle,NFL
+Tampa Bay Buccaneers,Tampa,NFL
+Washington Football,Washington,NFL
+Atlanta Hawks,Atlanta,NBA
+Boston Celtics,Boston,NBA
+Charlotte Hornets,Charlotte,NBA
+Chicago Bulls,Chicago,NBA
+Cleveland Cavaliers,Cleveland,NBA
+Dallas Mavericks,Dallas,NBA
+Denver Nuggets,Denver,NBA
+Detroit Pistons,Detroit,NBA
+Houston Rockets,Houston,NBA
+Indiana Pacers,Indianapolis,NBA
+LA Lakers,Los Angeles,NBA
+LA Clippers,Los Angeles,NBA
+Memphis Grizzlies,Memphis,NBA
+Miami Heat,Miami,NBA
+Minnesota Timberwolves,Minneapolis,NBA
+Milwaukee Bucks,Milwaukee,NBA
+New Orleans Pelicans,New Orleans,NBA
+New York Knicks,New York,NBA
+Brooklyn Nets,New York,NBA
+Oklahoma City Thunder,Oklahoma City,NBA
+Orlando Magic,Orlando,NBA
+Philadelphia 76ers,Philadelphia,NBA
+Phoenix Suns,Phoenix,NBA
+Portland Trailblazers,Portland,NBA
+Sacramento Kings,Sacramento,NBA
+Utah Jazz,Salt Lake,NBA
+San Antonio Spurs,San Antonio,NBA
+Golden State Warriors,San Francisco,NBA
+Toronto Raptors,Toronto,NBA
+Washington Wizards,Washington,NBA
+Boston Bruins,Boston,NHL
+Buffalo Sabres,Buffalo,NHL
+Calgary Flames,Calgary,NHL
+Chicago Blackhawks,Chicago,NHL
+Columbus Blue Jackets,Columbus,NHL
+Dallas Stars,Dallas,NHL
+Colorado Avalanche,Denver,NHL
+Detroit Red Wings,Detroit,NHL
+Edmonton Oilers,Edmonton,NHL
+Vegas Golden Knights,Las Vegas,NHL
+LA Kings,Los Angeles,NHL
+Anaheim Ducks,Los Angeles,NHL
+Florida Panthers,Miami,NHL
+Minnesota Wild,Minneapolis,NHL
+Montreal Canadiens,Montreal,NHL
+Nashville Predators,Nashville,NHL
+New York Rangers,New York,NHL
+New York Islanders,New York,NHL
+New Jersey Devils,New York,NHL
+Ottawa Senators,Ottawa,NHL
+Philadelphia Flyers,Philadelphia,NHL
+Arizona Coyotes,Phoenix,NHL
+Pittsburgh Penguins,Pittsburgh,NHL
+Carolina Hurricanes,Raleigh,NHL
+San Jose Sharks,San Jose,NHL
+St. Louis Blues,St. Louis,NHL
+Seattle Kraken,Seattle,NHL
+Tampa Bay Lightening,Tampa,NHL
+Toronto Maple Leafs,Toronto,NHL
+Vancouver Canucks,Vancouver,NHL
+Washington Capitals,Washington,NHL
+Winnipeg Jets,Winnipeg,NHL
+Atlanta United,Atlanta,MLS
+Austin FC,Austin,MLS
+New England Revolution,Boston,MLS
+Chicago Fire,Chicago,MLS
+FC Cincinnati,Cincinnati,MLS
+Columbus Crew,Columbus,MLS
+FC Dallas,Dallas,MLS
+Colorado Rapids,Denver,MLS
+Houston Dynamo,Houston,MLS
+Sporting Kansas City,Kansas City,MLS
+LA Galaxy,Los Angeles,MLS
+LA FC,Los Angeles,MLS
+Inter Miami,Miami,MLS
+Minnesota United,Minneapolis,MLS
+Montreal Impact,Montreal,MLS
+Nashville SC,Nashville,MLS
+New York Red Bulls,New York,MLS
+New York City FC,New York,MLS
+Orlando City,Orlando,MLS
+Philadelphia Union,Philadelphia,MLS
+Portland Timbers,Portland,MLS
+Real Salt Lake,Salt Lake,MLS
+San Jose Eathquakes,San Jose,MLS
+Seattle Sounders,Seattle,MLS
+Toronto FC,Toronto,MLS
+Vancouver Whitecaps,Vancouver,MLS
+DC United,Washington,MLS
