@@ -54,3 +54,24 @@ the franchise's corresponding city, and the league in which the franchise compet
 **10. Final Data/"final_country_census"**  
 * CSV file displaying the population estimates (2016 & 2021) for MSAs in Canada and the U.S.A in which cities have representation in one
 of the five major continental sports leagues, as well as the Country Code for the city.. 
+
+## Data Sources
+
+### Canada Census Data:
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000301  
+* File Download:<br> https://www150.statcan.gc.ca/n1/tbl/csv/98100003-eng.zip
+
+### USA Census Data:  
+* 2020s Data:
+	* https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html
+	* File Download:  
+		* https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
+
+### 2010s Data:
+*  https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
+* File Download:
+  * https://www2.census.gov/programs-surveys/popest/tables/2010-2019/metro/totals/cbsa-met-est2019-annres.xlsx
+
+### For Scraping:
+* Table for Sports Franchises by City
+  * https://www.stadium-maps.com/facts/sports-franchises.html
