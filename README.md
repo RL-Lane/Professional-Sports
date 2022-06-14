@@ -67,10 +67,10 @@ of the five major continental sports leagues, as well as the Country Code for th
 	* File Download:  
 		* https://www2.census.gov/programs-surveys/popest/tables/2020-2021/metro/totals/cbsa-met-est2021-pop.xlsx
 
-### 2010s Data:
-*  https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
-* File Download:
-  * https://www2.census.gov/programs-surveys/popest/tables/2010-2019/metro/totals/cbsa-met-est2019-annres.xlsx
+* 2010s Data:
+	*  https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
+	* File Download:
+		* https://www2.census.gov/programs-surveys/popest/tables/2010-2019/metro/totals/cbsa-met-est2019-annres.xlsx
 
 ### For Scraping:
 * Table for Sports Franchises by City
