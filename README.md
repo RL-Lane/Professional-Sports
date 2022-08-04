@@ -1,5 +1,12 @@
-## Documentation in Resources & Final Data Folders
+# Professional-Sports
+
 #### Czornyj, Daniel<br>Lane, Robert<br>Sultenfuss, Cody
+
+## Project Description
+
+The purpose of this project is to demonstrate ETL (Extract, Transform, Load) of data from multiple sources.  Links to the actual sources can be found at the bottom of this document.  This lists all 5 major professional sports leagues in the United States and Canada.  Challenges included careful parsing of the source table; some cities had multiple teams for one league, while others had none.  Additionally, census data was pulled from the US Census Bureau relating to the MSA (Metropolitan Statistical Area) rather than just the city.  The equivalent for Canada is the CMA (Census Metropolitan Area).
+
+## Documentation in Resources & Final Data Folders
 
 
 **1. Resources/"98100003.csv"**  
